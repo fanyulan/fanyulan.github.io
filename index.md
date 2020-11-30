@@ -9,6 +9,7 @@ Email: yulanf@whu.edu.cn
 I am a graduate student in School of Physics and Technology, Wuhan University, supervised by Prof. Liang-Sun. Previously, I graduated from College of Automation and Electronic Engineering in QingDao University of Science and Technology.
 
 I am interested in precise measurement of charm physics and new physics.
+Recently, I would like to work on biologiy, especially in plant.
 ***
 
 ### Activity and Project
