@@ -1,4 +1,4 @@
-## ${\color{blue}Yulan Fan}$
+## ${\color {blue}Yulan Fan}$
 
 Graduate student in Wuhan University
 
