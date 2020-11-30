@@ -1,4 +1,4 @@
-## <font face=STKaiti>Yulan Fan</font>
+## <font face=STKaiti> $\color{blue}Yulan$ Fan </font>
 
 Graduate student in Wuhan University
 
