@@ -1,4 +1,4 @@
-## <font color="#0000dd">Yulan Fan</font><br/> 
+## {\color{blue}Yulan Fan}
 
 Graduate student in Wuhan University
 
