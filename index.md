@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Yulan Fan
 
-You can use the [editor on GitHub](https://github.com/fanyulan/fanyulan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Graduate student in Wuhan University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: yulanf@whu.edu.cn
 
-### Markdown
+### Biography
+***
+I am a graduate student in School of Physics and Technology, Wuhan University, supervised by Prof. Liang-Sun. Previously, I graduated from College of Automation and Electronic Engineering in QingDao University of Science and Technology.
+I am interested in precise measurement of particle physics and new physics.
+***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fanyulan/fanyulan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Activity and Project
+***
+1. Attend the *ISTEP* 2018
+2. Attend *The BESIII Workshop on Charm Hadron Physics* (2018)
+3. Attend *The BESIII Collaboration Meeting in Winter of 2018, IHEP* at Wuhan University (2018)
+4. Give a plenary report in *The BESIII Collaboration Meeting in Winter of 2019, IHEP* in Beijing (2019)
+5. Report in *BESIII Physics and Software Meeting* (July,2020) 
+***
