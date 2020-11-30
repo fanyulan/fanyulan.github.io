@@ -1,5 +1,5 @@
 ## Yulan Fan 
-## <font Yulan Fan=#0000dd face=consolas>*color*=#0099FF  face=consolas</font>
+## <font color="#0000dd">Yulan Fan</font><br /> 
 
 Graduate student in Wuhan University
 
