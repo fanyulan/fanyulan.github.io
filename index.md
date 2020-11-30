@@ -1,4 +1,4 @@
-## <font face=KaiTi>Yulan Fan</font>
+## <font face=STKaiti>Yulan Fan</font>
 
 Graduate student in Wuhan University
 
